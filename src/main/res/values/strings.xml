@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HotelBookingScreen</string>
+    <string name="jwmarriot">JW Marriot</string>
+    <string name="tajhotel">Taj Hotel</string>
+    <string name="wyndham">Wyndham</string>
+    <string name="lemontree">Lemon Tree</string>
+    <string name="langham">Langham</string>
+    <string name="fortune">Fortune</string>
+</resources>
